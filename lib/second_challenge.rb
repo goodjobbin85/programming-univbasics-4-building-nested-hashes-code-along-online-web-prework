@@ -11,7 +11,7 @@ def second_challenge
            :attitude => {}
          }
          ]
-      }, 
+      }
     :capulet => {
       #your key/value pairs here!
        :patriarch => {},
