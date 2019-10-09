@@ -24,5 +24,6 @@ def second_challenge
            :attitude => {}
          }
          ]
-    }
+      }
+  }
 end
